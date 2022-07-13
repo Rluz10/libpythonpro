@@ -6,6 +6,9 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Suportada versão 3 de Python
 
+[![Updates](https://pyup.io/repos/github/Rluz10/libpythonpro/shield.svg)](https://pyup.io/repos/github/Rluz10/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/Rluz10/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/Rluz10/libpythonpro/)
+
 Para instalar:
 
 ```console
