@@ -37,3 +37,8 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+    - name: Relatório Coverage
+      env:
+          CODECOV_TOKEN: ${{secrets.TOKEN_CODECOV_LIBPYTHONPRO}}
+      run: |
+        codecov
