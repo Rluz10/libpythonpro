@@ -20,14 +20,13 @@ def sessao(conexao):
     sessao_obj.fechar()
 
 
-@pytest.fixture
+@pytest.fixture(scope='session')
 def conexao():
     #Setup
     conexao_obj = Conexao()
     yield conexao_obj
     #Tear Down
     conexao_obj.fechar()
-
 
 
 def test_listar_usuarios(sessao):
