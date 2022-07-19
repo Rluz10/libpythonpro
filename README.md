@@ -8,6 +8,7 @@ Suportada versão 3 de Python
 
 [![Updates](https://pyup.io/repos/github/Rluz10/libpythonpro/shield.svg)](https://pyup.io/repos/github/Rluz10/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/Rluz10/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/Rluz10/libpythonpro/)
+[![codecov](https://codecov.io/gh/Rluz10/libpythonpro/branch/master/graph/badge.svg?token=57R9Q28YE5)](https://codecov.io/gh/Rluz10/libpythonpro)
 
 Para instalar:
 
